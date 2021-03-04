@@ -6,7 +6,7 @@ Write a program to find the largest number in the factors of a number N. Find fa
 
 Input Description:
 
-N a integer as input.
+An integer N as input.
 
 Output Description:
 
