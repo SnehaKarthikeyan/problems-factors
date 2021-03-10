@@ -12,7 +12,7 @@ Output Description:
 
 Print the largest factor for the given N
 
-Hint:
+Hints:
 
 Using Iteration find the factors and print the largest number
 
